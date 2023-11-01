@@ -105,4 +105,4 @@ if game_start == "y":
         
 
 if game_start == "n":
-    print("What are you even doing here then get out")
+    print("What are you even doing here then please leave")
